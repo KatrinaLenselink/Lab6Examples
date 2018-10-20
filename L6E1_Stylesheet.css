@@ -1,0 +1,44 @@
+body{
+	color:white;
+	background-color:black;
+}
+
+
+#wrapper{
+	width: 1100px;
+	height: 650px;
+	background-color:white;
+	margin: auto;
+}
+
+#header{
+	font-size: 20px;
+	font-weight: bold;
+	height:65px;
+	width: 1100px;
+	text-align:center;
+	background-color:red;
+	padding: inherit;
+
+
+}
+
+#leftbody{
+	font-size: 11px;
+	width:1090px;
+	height: 440px;
+	background-color:green;
+	padding:5px;
+	margin: 0px;
+}
+
+
+#footer{
+	font-size: 11px;
+	text-align:left;
+	height:50px;
+	clear:both;
+	background-color:blue;
+	padding: 5px;
+
+}
